@@ -24,6 +24,10 @@ body {
 }
 
 /* TYPOGRAPHY */
+a.title{
+  font-family: 'Source Serif Pro', Georgia, serif;
+  color:pink;
+}
 
 h1 {
   font-family: 'Source Serif Pro', Georgia, serif;
@@ -214,6 +218,15 @@ button:active {
   outline: none;
 }
 
+.credits {
+  font-family: 'Work Sans', 'Proxima Nova', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333447;
+  font-size: 0.5rem;
+  font-weight: 100;
+  margin: 80px auto 120px;
+  text-align: center;
+}
+
 footer {
   margin-top: 160px;
   padding-bottom: 1px;
@@ -250,6 +263,11 @@ footer {
 }
 
 /* IMAGES */
+
+.va-poster{
+  background: url('../img/va-poster.jpg');
+  padding-top: 60%;
+}
 
 .coffee-computer {
   background: url('http://zcole.me/img/coffee-finder-computer.png');
