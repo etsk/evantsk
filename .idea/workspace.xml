@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f78b0e-eebe-4fe3-8b13-84e6f910ef94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/evantan-resume.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/neweratools.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/ra-work.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coffee-finder-computer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coffee-finder-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coffee-finder-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fleece-computer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fleece-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/lyft-blog-computer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/lyft-blog-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/simple-grid-computer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/simple-grid-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work/other-projects.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/evantme.css" afterPath="$PROJECT_DIR$/css/evantme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/data-visualisation.html" afterPath="$PROJECT_DIR$/work/data-visualisation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/ey.html" afterPath="$PROJECT_DIR$/work/ey.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/tripbunny.html" afterPath="$PROJECT_DIR$/work/tripbunny.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/neweratools.html" afterPath="$PROJECT_DIR$/work/neweratools.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/ra-work.html" afterPath="$PROJECT_DIR$/work/ra-work.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/visitors-of-singapore.html" afterPath="$PROJECT_DIR$/work/visitors-of-singapore.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,17 +25,10 @@
       <file leaf-file-name="evantme.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/evantme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="261" column="8" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
+            <state relative-caret-position="287">
+              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="va-poster.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/va-poster.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -69,8 +49,8 @@
       <file leaf-file-name="ey.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/ey.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+            <state relative-caret-position="324">
+              <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -79,8 +59,8 @@
       <file leaf-file-name="neweratools.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/neweratools.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+            <state relative-caret-position="543">
+              <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -89,8 +69,8 @@
       <file leaf-file-name="ra-work.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/ra-work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="62" column="85" lean-forward="false" selection-start-line="62" selection-start-column="85" selection-end-line="62" selection-end-column="85" />
+            <state relative-caret-position="81">
+              <caret line="48" column="325" lean-forward="true" selection-start-line="48" selection-start-column="325" selection-end-line="48" selection-end-column="325" />
               <folding />
             </state>
           </provider>
@@ -99,8 +79,8 @@
       <file leaf-file-name="tripbunny.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/tripbunny.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="104" column="70" lean-forward="false" selection-start-line="104" selection-start-column="70" selection-end-line="104" selection-end-column="70" />
+            <state relative-caret-position="444">
+              <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -110,11 +90,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visitors-of-singapore.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="visitors-of-singapore.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/visitors-of-singapore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="79" column="72" lean-forward="false" selection-start-line="79" selection-start-column="72" selection-end-line="79" selection-end-column="72" />
+            <state relative-caret-position="391">
+              <caret line="50" column="152" lean-forward="false" selection-start-line="50" selection-start-column="152" selection-end-line="50" selection-end-column="152" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data-visualisation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/data-visualisation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="47" column="280" lean-forward="false" selection-start-line="47" selection-start-column="280" selection-end-line="47" selection-end-column="280" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="197" column="27" lean-forward="false" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -148,6 +148,7 @@
       <find>cre</find>
       <find>credit</find>
       <find>coffee</find>
+      <find>A.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,14 +161,14 @@
         <option value="$PROJECT_DIR$/css/simple-grid.css" />
         <option value="$PROJECT_DIR$/css/reset.css" />
         <option value="$PROJECT_DIR$/work/other-projects.html" />
-        <option value="$PROJECT_DIR$/work/data-visualisation.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/work/ra-work.html" />
-        <option value="$PROJECT_DIR$/work/neweratools.html" />
-        <option value="$PROJECT_DIR$/work/ey.html" />
-        <option value="$PROJECT_DIR$/css/evantme.css" />
-        <option value="$PROJECT_DIR$/work/tripbunny.html" />
         <option value="$PROJECT_DIR$/work/visitors-of-singapore.html" />
+        <option value="$PROJECT_DIR$/work/data-visualisation.html" />
+        <option value="$PROJECT_DIR$/work/tripbunny.html" />
+        <option value="$PROJECT_DIR$/work/ey.html" />
+        <option value="$PROJECT_DIR$/work/neweratools.html" />
+        <option value="$PROJECT_DIR$/css/evantme.css" />
+        <option value="$PROJECT_DIR$/work/ra-work.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -271,17 +272,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522009504147</updated>
-      <workItem from="1522009505298" duration="22069000" />
+      <workItem from="1522009505298" duration="25067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22069000" />
+    <option name="totallyTimeSpent" value="25067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10069445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10069445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -393,30 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="212" column="0" lean-forward="true" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/data-visualisation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="60" column="55" lean-forward="false" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/evantme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="261" column="8" lean-forward="false" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/va-poster.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -432,42 +410,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/ey.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/neweratools.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/ra-work.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="62" column="85" lean-forward="false" selection-start-line="62" selection-start-column="85" selection-end-line="62" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/tripbunny.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="104" column="70" lean-forward="false" selection-start-line="104" selection-start-column="70" selection-end-line="104" selection-end-column="70" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -476,10 +418,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/work/data-visualisation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="47" column="280" lean-forward="false" selection-start-line="47" selection-start-column="280" selection-end-line="47" selection-end-column="280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/tripbunny.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/ey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/neweratools.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/evantme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/work/visitors-of-singapore.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="79" column="72" lean-forward="false" selection-start-line="79" selection-start-column="72" selection-end-line="79" selection-end-column="72" />
+        <state relative-caret-position="391">
+          <caret line="50" column="152" lean-forward="false" selection-start-line="50" selection-start-column="152" selection-end-line="50" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/ra-work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="48" column="325" lean-forward="true" selection-start-line="48" selection-start-column="325" selection-end-line="48" selection-end-column="325" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="197" column="27" lean-forward="false" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
           <folding />
         </state>
       </provider>
