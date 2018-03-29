@@ -269,31 +269,6 @@ footer {
   padding-top: 60%;
 }
 
-.coffee-computer {
-  background: url('http://zcole.me/img/coffee-finder-computer.png');
-  padding-top: 60%;
-}
-
-.coffee-logo {
-  background: url('http://zcole.me/img/coffee-finder-logo.jpg');
-  padding-top: 66.4151%;
-}
-
-.lyft-blog-computer {
-  background: url('http://zcole.me/img/lyft-blog-computer.png');
-  padding-top: 60%;
-}
-
-.fleece-computer {
-  background: url('http://zcole.me/img/fleece-computer.png');
-  padding-top: 60%;
-}
-
-.simple-grid-computer {
-  background: url('http://zcole.me/img/simple-grid-computer.png');
-  padding-top: 60%;
-}
-
 img {
   width: 100%;
   height: auto;
@@ -376,16 +351,13 @@ img {
     margin-top: 0;
   }
 
-  .coffee-computer,
-  .lyft-blog-computer,
-  .fleece-computer,
-  .simple-grid-computer {
+  .va-poster {
     padding-top: 36%;
   }
 
-  .coffee-logo {
-    padding-top: 41.5%;
-  }
+  /*.coffee-logo {*/
+    /*padding-top: 41.5%;*/
+  /*}*/
 }
 
 @media only screen and (min-width: 960px) {
