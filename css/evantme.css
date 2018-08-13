@@ -355,9 +355,6 @@ img {
     padding-top: 36%;
   }
 
-  /*.coffee-logo {*/
-    /*padding-top: 41.5%;*/
-  /*}*/
 }
 
 @media only screen and (min-width: 960px) {
@@ -365,4 +362,12 @@ img {
     width: 80%;
     max-width: 1080px;
   }
+}
+
+#draw{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
 }

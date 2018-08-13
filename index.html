@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!--<link rel="shortcut icon" href="http://zcole.me/img/favicon.png">-->
   <!-- Social share meta tags -->
   <meta property="og:title" content="Evan Tan Song Kai | Web Portfolio">
   <meta property="og:description" content="Evan Tan is a software developer living in Singapore.">
   <meta property="og:type" content="website">
-  <!--<meta property="og:image" content="http://zcole.me/img/social-share.png">-->
   <meta property="og:site_name" content="Evan Tan Song Kai's Web Portfolio">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Evan Tan">
   <meta name="twitter:description" content="Evan Tan is a software developer living in Singapore.">
-  <!--<meta name="twitter:image:src" content="http://zcole.me/img/social-share.png">-->
   <!-- End social share meta tags -->
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/simple-grid.css">
@@ -23,22 +21,25 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116410716-1"></script>
   <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-      gtag('config', 'UA-116410716-1');
+    gtag('config', 'UA-116410716-1');
   </script>
 
 </head>
+
 <body>
+  <canvas id="draw" width="800" height="800"></canvas>
   <div class=" container super-container">
     <div class="title-content">
       <div class="title">
         <div class="row">
           <div class="col-10">
-            <h1>Hi, I'm <u><a href="docs/evantan-resume.pdf" class="title" target="_blank" title="Evan Tan's Resume">Evan</a></u>.
-              <br/>I'm a software developer
+            <h1>Hi, I'm
+              <u><a href="docs/evantan-resume.pdf" class="title" target="_blank" title="Evan Tan's Resume">Evan</a></u>
+              <br/>I'm a technophile
               <br/>& an aspiring technology polymath.
             </h1>
           </div>
@@ -52,47 +53,12 @@
               <br/>During my free time, I enjoy chasing new technology trends and building new ideas.
             </p>
             <p>
-              <span class="weak">Technical skills: Java, Python, C#, MySQL, SQLite, HTML/CSS, JavaScript, D3.js, Unix</span>
-              <br/><span class="weak">Tools: Tableau, IntelliJ, WebStorm, Visual Studio, PyCharm, Sketch, Invision</span>
+              <span class="weak">Technical skills: Java, Python, VBA, MySQL, HTML/CSS, JavaScript, Node.js, D3.js, Solidity, Unix</span>
+              <br/>
+              <span class="weak">Tools: Tableau, Sketch, Invision, Truffle / Ganache</span>
             </p>
           </div>
         </div>
-      </div>
-    </div>
-
-    <!--Past Projects-->
-    <div class="contents-grid">
-      <div class="row">
-        <div class="col-1 hide-small">
-          <div class="line line-small"></div>
-        </div>
-        <div class="col-11">
-          <h2>Past projects</h2>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-1 hide-small">
-        </div>
-        <a href="work/tripbunny.html" title="TripBunny"><div class="col-11 menu-item">
-          <h3>TripBunny - Upper Year Capstone Project</h3>
-          <h6 class="font-light label-hide">May 2017 - December 2017</h6>
-        </div></a>
-      </div>
-      <div class="row">
-        <div class="col-1 hide-small">
-        </div>
-        <a href="work/visitors-of-singapore.html" title="Visitors of Singapore"><div class="col-11 menu-item">
-          <h3>Visitors of Singapore - Visual Analytics Project</h3>
-          <h6 class="font-light label-hide">August 2017 - December 2017</h6>
-        </div></a>
-      </div>
-      <div class="row">
-        <div class="col-1 hide-small">
-        </div>
-        <a href="work/data-visualisation.html" title="Data Visualisation with Tableau"><div class="col-11 menu-item">
-          <h3>Data Visualisation with Tableau </h3>
-          <h6 class="font-light label-hide">August 2017 - December 2017</h6>
-        </div></a>
       </div>
     </div>
 
@@ -109,26 +75,94 @@
       <div class="row">
         <div class="col-1 hide-small">
         </div>
-        <a href="work/ey.html" title="EY"><div class="col-11 menu-item">
-          <h3>EY - Advisory, Risk (Cyber Security) Intern</h3>
-          <h6 class="font-light label-hide">May 2017 - July 2017</h6>
-        </div></a>
+        <a href="work/smub.html" title="EY">
+          <div class="col-11 menu-item">
+            <h3>SMU Blockchain Club - Co-Founder, President</h3>
+            <h6 class="font-light label-hide">May 2018 - Present</h6>
+          </div>
+        </a>
       </div>
       <div class="row">
         <div class="col-1 hide-small">
         </div>
-        <a href="work/neweratools.html" title="Newera Tools & Machinery"><div class="col-11 menu-item">
-          <h3>Newera Tools & Machinery Ptd. Ltd. - System Consultant</h3>
-          <h6 class="font-light label-hide">December 2016 - May 2017</h6>
-        </div></a>
+        <a href="work/gs.html" title="EY">
+          <div class="col-11 menu-item">
+            <h3>Goldman Sachs - Summer Analyst</h3>
+            <h6 class="font-light label-hide">May 2018 - July 2018</h6>
+          </div>
+        </a>
       </div>
       <div class="row">
         <div class="col-1 hide-small">
         </div>
-        <a href="work/ra-work.html" title="Research Assistant Work"><div class="col-11 menu-item">
-          <h3>Singapore Management University - Research Assistant</h3>
-          <h6 class="font-light label-hide">Aug 2016 - Aug 2017</h6>
-        </div></a>
+        <a href="work/ey.html" title="EY">
+          <div class="col-11 menu-item">
+            <h3>EY - Advisory, Risk (Cyber Security) Intern</h3>
+            <h6 class="font-light label-hide">May 2017 - July 2017</h6>
+          </div>
+        </a>
+      </div>
+      <div class="row">
+        <div class="col-1 hide-small">
+        </div>
+        <a href="work/neweratools.html" title="Newera Tools & Machinery">
+          <div class="col-11 menu-item">
+            <h3>Newera Tools & Machinery Ptd. Ltd. - System Consultant</h3>
+            <h6 class="font-light label-hide">December 2016 - May 2017</h6>
+          </div>
+        </a>
+      </div>
+      <div class="row">
+        <div class="col-1 hide-small">
+        </div>
+        <a href="work/ra-work.html" title="Research Assistant Work">
+          <div class="col-11 menu-item">
+            <h3>Singapore Management University - Research Assistant</h3>
+            <h6 class="font-light label-hide">Aug 2016 - Aug 2017</h6>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!--Past Projects-->
+    <div class="contents-grid">
+      <div class="row">
+        <div class="col-1 hide-small">
+          <div class="line line-small"></div>
+        </div>
+        <div class="col-11">
+          <h2>Past projects</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-1 hide-small">
+        </div>
+        <a href="work/tripbunny.html" title="TripBunny">
+          <div class="col-11 menu-item">
+            <h3>TripBunny - Upper Year Capstone Project</h3>
+            <h6 class="font-light label-hide">May 2017 - December 2017</h6>
+          </div>
+        </a>
+      </div>
+      <div class="row">
+        <div class="col-1 hide-small">
+        </div>
+        <a href="work/visitors-of-singapore.html" title="Visitors of Singapore">
+          <div class="col-11 menu-item">
+            <h3>Visitors of Singapore - Visual Analytics Project</h3>
+            <h6 class="font-light label-hide">August 2017 - December 2017</h6>
+          </div>
+        </a>
+      </div>
+      <div class="row">
+        <div class="col-1 hide-small">
+        </div>
+        <a href="work/data-visualisation.html" title="Data Visualisation with Tableau">
+          <div class="col-11 menu-item">
+            <h3>Data Visualisation with Tableau </h3>
+            <h6 class="font-light label-hide">August 2017 - December 2017</h6>
+          </div>
+        </a>
       </div>
     </div>
 
@@ -147,16 +181,20 @@
           <div class="row">
             <div class="n-col-1 hide-small">
             </div>
-            <a href="https://medium.com/@etsk" target="_blank"><div class="n-col-5 menu-item">
-              <h3>Medium</h3>
-            </div></a>
+            <a href="https://medium.com/@etsk" target="_blank">
+              <div class="n-col-5 menu-item">
+                <h3>Medium</h3>
+              </div>
+            </a>
           </div>
           <div class="row">
             <div class="n-col-1 hide-small">
             </div>
-            <a href="https://github.com/etsk" target="_blank"><div class="n-col-5 menu-item">
-              <h3>Github</h3>
-            </div></a>
+            <a href="https://github.com/etsk" target="_blank">
+              <div class="n-col-5 menu-item">
+                <h3>Github</h3>
+              </div>
+            </a>
           </div>
         </div>
 
@@ -173,16 +211,20 @@
           <div class="row">
             <div class="n-col-1 hide-small">
             </div>
-            <a href="https://www.instagram.com/evantsk/" target="_blank"><div class="n-col-5 menu-item">
-              <h3>Instagram</h3>
-            </div></a>
+            <a href="https://www.instagram.com/evantsk/" target="_blank">
+              <div class="n-col-5 menu-item">
+                <h3>Instagram</h3>
+              </div>
+            </a>
           </div>
           <div class="row">
             <div class="n-col-1 hide-small">
             </div>
-            <a href="https://www.linkedin.com/in/evantsk/" target="_blank"><div class="n-col-5 menu-item">
-              <h3>Linkedin</h3>
-            </div></a>
+            <a href="https://www.linkedin.com/in/evantsk/" target="_blank">
+              <div class="n-col-5 menu-item">
+                <h3>Linkedin</h3>
+              </div>
+            </a>
           </div>
         </div>
       </div>
@@ -205,7 +247,9 @@
           <p class="left">
             We could bounce off ideas together, or talk about anything!
           </p>
-          <a href="mailto:etsk@hotmail.sg" target="_blank"><button>Email Me</button></a>
+          <a href="mailto:etsk@hotmail.sg" target="_blank">
+            <button>Email Me</button>
+          </a>
         </div>
       </div>
     </div>
@@ -226,10 +270,68 @@
         </p>
         <div class="equals"></div>
       </div>
-      <div class="credits">
-        This web portfolio is a fork off <a href="https://github.com/zachacole" target="_blank">Zach Cole</a>.
-      </div>
+      <!-- <div class="credits">
+        This web portfolio is a fork off
+        <a href="https://github.com/zachacole" target="_blank">Zach Cole</a>.
+      </div> -->
     </div>
   </footer>
+
+  <script>
+    const canvas = document.querySelector('#draw');
+    //context is where we do all our drawings for the canvas
+    const ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    ctx.strokeStyle = '#BADA55';
+    ctx.lineJoin = 'round';
+    ctx.lineCap = 'round';
+    ctx.lineWidth = 0;
+    ctx.globalCompositeOperation = 'multiply';
+
+    let isDrawing = false; //flag for click down = true, let go = false
+    let lastX = 0;
+    let lastY = 0; //need a starting x and y, and an end x and y
+    let hue = 0;
+    let direction = true;
+
+    function draw(e) {
+      if (!isDrawing) return; //stop the function from running when they are not moused down
+      console.log(e);
+      ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+      ctx.beginPath();
+      //start from 0
+      ctx.moveTo(lastX, lastY);
+      //go to
+      ctx.lineTo(e.offsetX, e.offsetY);
+      ctx.stroke();
+      //es6 destructuring an array
+      [lastX, lastY] = [e.offsetX, e.offsetY];
+      // lastX = e.offSetX;
+      // lastY = e.offSetY;
+      hue++;
+      if (hue >= 360) {
+        hue = 0;
+      }
+      if (ctx.lineWidth >= 30 || ctx.lineWidth <= 1) {
+        direction = !direction;
+      }
+      if (direction) {
+        ctx.lineWidth++;
+      } else {
+        ctx.lineWidth--;
+      }
+    }
+    canvas.addEventListener('mousedown', (e) => {
+      isDrawing = true;
+      [lastX, lastY] = [e.offsetX, e.offsetY];
+    });
+
+    canvas.addEventListener('mousemove', draw);
+
+    canvas.addEventListener('mouseup', () => isDrawing = false);
+    canvas.addEventListener('mouseout', () => isDrawing = false);
+  </script>
 </body>
+
 </html>
